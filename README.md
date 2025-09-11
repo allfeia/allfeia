@@ -1,9 +1,11 @@
 ### Набокова Алиса
-### ИТМО, ФПИиКТ, Нейротехнологии и программирование, 2 курс
+### ИТМО, ФПИиКТ, Нейротехнологии и программирование, 3 курс
 
 
 ### [Лабораторные работы 1 курс](https://github.com/allfeia/Navigation/blob/main/navigation1.md)
 ### [Лабораторные работы 2 курс](https://github.com/allfeia/Navigation/blob/main/navigation2.md)
+### [Лабораторные работы 3 курс](https://github.com/allfeia/Navigation/blob/main/navigation3.md)
+
 <!--
 **allfeia/allfeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
