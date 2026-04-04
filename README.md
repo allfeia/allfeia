@@ -1,4 +1,4 @@
-# Hi, I'm Alice
+# Hi, I'm Alisa
 
 🎓 3rd year student at ITMO University 
 
