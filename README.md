@@ -1,7 +1,9 @@
 # Hi, I'm Alice
 
 🎓 3rd year student at ITMO University 
+
 Faculty: Software Engineering & Computer Systems  
+
 Specialization: Neurotechnology & Programming
 
 ---
