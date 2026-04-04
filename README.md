@@ -32,20 +32,11 @@ Specialization: Neurotechnology & Programming
 ---
 ### 🤖 ML & Data
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=for-the-badge&logo=scikitlearn)  
-![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras)  
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)  
-![Polars](https://img.shields.io/badge/-Polars-black?style=for-the-badge)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=for-the-badge)  
-![NLTK](https://img.shields.io/badge/-NLTK-black?style=for-the-badge)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=for-the-badge&logo=scikitlearn)  ![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras)  ![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)  ![NLTK](https://img.shields.io/badge/-NLTK-black?style=for-the-badge)  
 
-![MNE|52](https://img.shields.io/badge/-MNE-black?style=for-the-badge)
-![HeartPy](https://img.shields.io/badge/-HeartPy-black?style=for-the-badge)  
-![BioSPPy](https://img.shields.io/badge/-BioSPPy-black?style=for-the-badge)  
-![PeakUtils](https://img.shields.io/badge/-PeakUtils-black?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)  ![Polars](https://img.shields.io/badge/-Polars-black?style=for-the-badge)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge)  ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=for-the-badge)  
+
+![MNE|52](https://img.shields.io/badge/-MNE-black?style=for-the-badge) ![HeartPy](https://img.shields.io/badge/-HeartPy-black?style=for-the-badge)  ![BioSPPy](https://img.shields.io/badge/-BioSPPy-black?style=for-the-badge)  ![PeakUtils](https://img.shields.io/badge/-PeakUtils-black?style=for-the-badge)
 
 ---
 
