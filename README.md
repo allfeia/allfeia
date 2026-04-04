@@ -21,13 +21,10 @@ Specialization: Neurotechnology & Programming
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)  
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)  
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)  
-![C#|77](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)  
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)  ![C#|77](https://img.shields.io/badge/-CSharp-black?style=for-the-badge&logo=csharp)
 
 ---
 ### 🤖 ML & Data
@@ -48,36 +45,28 @@ Specialization: Neurotechnology & Programming
 
 ### ⚙️ DevOps & Tools
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)  
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)  
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)  
-![Maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apachemaven)  
-![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle)
+![Maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apachemaven)  ![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle)
 
 ---
 
 ### 🧪 Testing
 
-![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=for-the-badge&logo=junit5)  
-![Mockito](https://img.shields.io/badge/-Mockito-black?style=for-the-badge)  
-![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright)  
-![Vitest](https://img.shields.io/badge/-Vitest-black?style=for-the-badge)  
-![MSW](https://img.shields.io/badge/-MSW-black?style=for-the-badge)
+![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=for-the-badge&logo=junit5)  ![Mockito](https://img.shields.io/badge/-Mockito-black?style=for-the-badge)  
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright)  ![Vitest](https://img.shields.io/badge/-Vitest-black?style=for-the-badge)  ![MSW](https://img.shields.io/badge/-MSW-black?style=for-the-badge)
 
 ---
 
 ### 🔧 Version Control
 
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
 ---
 ### 🎨 Design & Creative Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)  
-![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender)  
-![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)
+![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender)  ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)
 
 ---
 
