@@ -47,6 +47,7 @@ Specialization: Neurotechnology & Programming
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)  
 ![Maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apachemaven)  ![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle)
+
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)  
 
 ---
