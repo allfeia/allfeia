@@ -66,8 +66,7 @@ Specialization: Neurotechnology & Programming
 ### 🎨 Design & Creative Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)  
-![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender)  ![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)
-
+![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender) 
 ---
 
 ## 📂 My University Work
