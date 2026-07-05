@@ -12,9 +12,6 @@ Specialization: Neurotechnology & Programming
 - ⚛️ Frontend Development (React, Node.js)
     
 - 🤖 Machine Learning & Deep Learning
-    
-- 🧠 EEG / ECG signal processing
-
 ---
 
 ## 🛠️ Tech Stack
