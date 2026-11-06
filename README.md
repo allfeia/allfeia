@@ -8,8 +8,6 @@ Specialization: Neurotechnology & Programming
 
 ---
 ## 🚀 My Main Interests
-
-- ⚛️ Frontend Development (React, Node.js)
     
 - 🤖 Machine Learning & Deep Learning
 ---
