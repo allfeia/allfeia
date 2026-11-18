@@ -9,7 +9,8 @@ Specialization: Neurotechnology & Programming
 ---
 ## 🚀 My Main Interests
     
-- 🤖 Machine Learning & Deep Learning
+- Data Analysis
+- Machine Learning & Deep Learning
 ---
 
 ## 🛠️ Tech Stack
