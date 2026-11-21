@@ -31,11 +31,11 @@ backend systems and product analytics.
 
 ## ✦ Focus areas
 
-- Data pipelines and real-time processing
+- Data pipelines and streaming data processing
 - Data analysis and product analytics
-- Machine learning prototypes
+- Machine learning
 - System analysis and requirements engineering
-- Backend development and observability
+- Backend development
 
 ---
 
