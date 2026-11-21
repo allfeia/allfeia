@@ -32,8 +32,8 @@ backend systems.
 
 ## ✦ Focus areas
 
-- Data pipelines and streaming data processing
-- Data analysis and product analytics
+- Data pipelines
+- Data analysis 
 - Machine learning
 - System analysis and requirements engineering
 - Backend development
