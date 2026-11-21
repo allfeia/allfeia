@@ -1,73 +1,80 @@
-# Hi, I'm Alisa
+<h1 align="center">Hi, I'm Alisa ✦</h1>
 
-🎓 4rd year student at ITMO University 
+<p align="center">
+  Software Engineer interested in Data, Machine Learning & Systems Analysis
+</p>
 
-Faculty: Software Engineering & Computer Systems  
+<p align="center">
+  Building data pipelines, ML prototypes and reliable backend systems
+</p>
 
-Specialization: Neurotechnology & Programming
+<p align="center">
+  <a href="https://t.me/allfeia">♡ Telegram</a> ·
+  <a href="mailto:nabokova_alisa2005@mail.ru">✉ Email</a> ·
+  <a href="https://github.com/allfeia/Navigation/blob/main/README.md">
+    📚 University labs
+  </a>
+</p>
 
 ---
-## 🚀 My Main Interests
-    
-- Data Analysis
-- Machine Learning & Deep Learning
+
+## 🎓 About me
+
+4th-year Software Engineering student at ITMO University.
+
+Specialization: Neurotechnology & Programming.
+
+I enjoy working at the intersection of data, machine learning,
+backend systems and product analytics.
+
 ---
 
-## 🛠️ Tech Stack
+## ✦ Focus areas
+
+- Data pipelines and real-time processing
+- Data analysis and product analytics
+- Machine learning prototypes
+- System analysis and requirements engineering
+- Backend development and observability
+
+---
+
+## 🛠️ Core stack
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)  
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)  
----
-### 🤖 ML & Data
+![Python](https://img.shields.io/badge/Python-EEF2FF?style=flat-square&logo=python&logoColor=6D5DFB&labelColor=F8FAFC)
+![SQL](https://img.shields.io/badge/SQL-EEF2FF?style=flat-square&logo=postgresql&logoColor=6D5DFB&labelColor=F8FAFC)
+![Java](https://img.shields.io/badge/Java-EEF2FF?style=flat-square&logo=openjdk&logoColor=6D5DFB&labelColor=F8FAFC)
+![TypeScript](https://img.shields.io/badge/TypeScript-EEF2FF?style=flat-square&logo=typescript&logoColor=6D5DFB&labelColor=F8FAFC)
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=for-the-badge&logo=scikitlearn)  ![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras) ![NLTK](https://img.shields.io/badge/-NLTK-black?style=for-the-badge)  
+### 📊 Data & ML
 
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)  ![Polars](https://img.shields.io/badge/-Polars-black?style=for-the-badge)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge)  ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/Pandas-EEF2FF?style=flat-square&logo=pandas&logoColor=6D5DFB&labelColor=F8FAFC)
+![NumPy](https://img.shields.io/badge/NumPy-EEF2FF?style=flat-square&logo=numpy&logoColor=6D5DFB&labelColor=F8FAFC)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-EEF2FF?style=flat-square&logo=scikitlearn&logoColor=6D5DFB&labelColor=F8FAFC)
+![Kafka](https://img.shields.io/badge/Kafka-EEF2FF?style=flat-square&logo=apachekafka&logoColor=6D5DFB&labelColor=F8FAFC)
+![Airflow](https://img.shields.io/badge/Airflow-EEF2FF?style=flat-square&logo=apacheairflow&logoColor=6D5DFB&labelColor=F8FAFC)
+![dbt](https://img.shields.io/badge/dbt-EEF2FF?style=flat-square&logo=dbt&logoColor=6D5DFB&labelColor=F8FAFC)
 
-![MNE|52](https://img.shields.io/badge/-MNE-black?style=for-the-badge) ![HeartPy](https://img.shields.io/badge/-HeartPy-black?style=for-the-badge)  ![BioSPPy](https://img.shields.io/badge/-BioSPPy-black?style=for-the-badge)  ![PeakUtils](https://img.shields.io/badge/-PeakUtils-black?style=for-the-badge)
+### 🗄️ Databases & Storage
 
----
+![ClickHouse](https://img.shields.io/badge/ClickHouse-EEF2FF?style=flat-square&logo=clickhouse&logoColor=6D5DFB&labelColor=F8FAFC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EEF2FF?style=flat-square&logo=postgresql&logoColor=6D5DFB&labelColor=F8FAFC)
+![Redis](https://img.shields.io/badge/Redis-EEF2FF?style=flat-square&logo=redis&logoColor=6D5DFB&labelColor=F8FAFC)
+![MinIO S3](https://img.shields.io/badge/MinIO_S3-EEF2FF?style=flat-square&logo=minio&logoColor=6D5DFB&labelColor=F8FAFC)
 
-### 🗄️ Databases
+### ⚙️ Infrastructure & Tools
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-
----
-
-### ⚙️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=nginx)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)  
-![Maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apachemaven)  ![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle)
-
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)  
-
----
-
-### 🧪 Testing
-
-![JUnit5](https://img.shields.io/badge/-JUnit5-black?style=for-the-badge&logo=junit5)  ![Mockito](https://img.shields.io/badge/-Mockito-black?style=for-the-badge)  
-![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright)  ![Vitest](https://img.shields.io/badge/-Vitest-black?style=for-the-badge)  ![MSW](https://img.shields.io/badge/-MSW-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-EEF2FF?style=flat-square&logo=docker&logoColor=6D5DFB&labelColor=F8FAFC)
+![Grafana](https://img.shields.io/badge/Grafana-EEF2FF?style=flat-square&logo=grafana&logoColor=6D5DFB&labelColor=F8FAFC)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-EEF2FF?style=flat-square&logo=githubactions&logoColor=6D5DFB&labelColor=F8FAFC)
+![Linux](https://img.shields.io/badge/Linux-EEF2FF?style=flat-square&logo=linux&logoColor=6D5DFB&labelColor=F8FAFC)
 
 ---
 
-### 🔧 Version Control
+## 📚 Education
 
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-
----
-### 🎨 Design & Creative Tools
-
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)  
-![Blender](https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender) 
----
-
-## 📂 My University Work
-
-[📚 Repository with my lab works from 3 years of study](https://github.com/allfeia/Navigation/blob/main/README.md)
-
----
-
-## [📫 Contact Me on Telegram](https://t.me/allfeia)
+**ITMO University**  
+BSc in Software Engineering  
+Neurotechnology & Programming · 2023–2027
