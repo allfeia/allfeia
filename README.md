@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://t.me/allfeia">♡ Telegram</a> ·
-  <a href="mailto:nabokova_alisa2005@mail.ru">✉ Email</a> ·
+  <a href="mailto:nabokova_alisa2005@mail.ru">✉ Mail.ru</a> ·
+  <a href="mailto:alisanabokova0@gmail.com">✉ Gmail</a> ·
   <a href="https://github.com/allfeia/Navigation/blob/main/README.md">
     📚 University labs
   </a>
@@ -24,8 +25,8 @@
 
 Specialization: Neurotechnology & Programming.
 
-I enjoy working at the intersection of data, machine learning,
-backend systems and product analytics.
+I enjoy working at the intersection of data, machine learning and
+backend systems.
 
 ---
 
